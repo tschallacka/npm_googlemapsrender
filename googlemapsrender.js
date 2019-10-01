@@ -203,3 +203,4 @@ GoogleMapsRender.prototype = {
     }
 };
 
+module.exports = GoogleMapsRender;
