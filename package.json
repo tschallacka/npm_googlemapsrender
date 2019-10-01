@@ -1,0 +1,27 @@
+{
+  "name": "@tschallacka/googlemapsrender",
+  "version": "1.0.0",
+  "description": "A utility to render google maps with special json instructions.",
+  "main": "googlemapsrender.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "google maps"
+  ],
+  "author": "Tschallacka",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tschallacka/npm_googlemapsrender.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tschallacka/npm_googlemapsrender/issues"
+  },
+  "homepage": "https://github.com/tschallacka/npm_googlemapsrender#readme"
+}
